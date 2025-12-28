@@ -1,0 +1,60 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    // Set the font
+    // "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Maple Mono', Consolas, 'Courier New', monospace",
+    
+    // Set the font size
+    "editor.fontSize": 13,
+    
+    // Turn on font ligatures
+    "editor.fontLigatures": true,
+    // Set letter spacing
+    
+    "editor.letterSpacing": 0.4,
+    // Enable smooth scrolling in the editor
+    
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "catppuccin-noctis-icons.hidesExplorerArrows": false,
+
+
+    // --- VS Codium background settings -------
+    "background.editor": {
+        "useFront": true,
+        "style": {
+            "background-position": "98% 98%",
+            "background-size": "5%",
+            "opacity": 0.6
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["file:///home/yubiyuub/Pictures/Walpaper/Kobayashi_San-removebg-preview.png"],
+        "interval": 0,
+        "random": false
+    },
+
+    "editor.codeActionsOnSave": {
+    
+    },
+    "background.enabled": true,
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "bottom",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.statusBar.visible": false,
+    "mdb.mcp.server": "enabled",
+    "workbench.colorTheme": "SkillAvid Pure Black Italic",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.automationProfile.linux": {},
+    "go.toolsManagement.autoUpdate": true,
+    "editor.rulers": [
+        
+    ],
+}
